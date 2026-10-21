@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-profile.png" width="30%">
+<img align="right" src="https://raw.githubusercontent.com/MahmoudHamdi74/MahmoudHamdi74/main/github-profile.png" width="30%">
 
 <h1>
   Hi There, I'm Mahmoud Hamdi
@@ -80,8 +80,8 @@ I'm a <b>Full-Stack Developer</b> based in Luxor, Egypt, working with the <b>MEA
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHamdi74&layout=compact)
 <br>
-<a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=MahmoudHamdi74&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MahmoudHamdi74&style=for-the-badge">
 </a>
