@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/MahmoudHamdi74/MahmoudHamdi74/main/github-profile.png" width="30%">
+<img align="right" src="https://github.com/MahmoudHamdi74.png" width="200">
 
 <h1>
   Hi There, I'm Mahmoud Hamdi
