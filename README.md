@@ -1,7 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-profile.png" width="30%">
 
 <h1>
-  Hi There, I'm Mahmoud
+  Hi There, I'm Mahmoud Hamdi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -12,13 +12,13 @@ I'm a <b>Full-Stack Developer</b> based in Luxor, Egypt, working with the <b>MEA
 <p>
 <a href="https://portfolio.mahmoudhamdi.workers.dev"><img
     src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img
+<a href="https://www.linkedin.com/in/mahmoud-hamdi-743969245/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK/"><img
+<a href="https://www.facebook.com/mahmoud.hamdi.141815/"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="mailto:YOUR_EMAIL"><img
+<a href="mailto:mahmoud.hamdi.work@gmail.com"><img
     src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://wa.me/YOUR_NUMBER"><img
+<a href="https://wa.me/201060813598"><img
     src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
